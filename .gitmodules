@@ -1,0 +1,6 @@
+[submodule "oktavia"]
+	path = oktavia
+	url = git://github.com/shibukawa/oktavia.git
+[submodule "pyramid"]
+	path = pyramid
+	url = git://github.com/pylonsproject-jp/pyramid.git
